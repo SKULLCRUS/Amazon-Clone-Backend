@@ -11,4 +11,4 @@ __pycache__/
 *.py
 *.pyo
 *.pyd
-*.json
+# *.json
